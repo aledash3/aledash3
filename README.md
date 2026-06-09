@@ -9,25 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=aledash3&color=grey&style=flat-square" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aledash3&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aledash3&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ## About Me
 
-I am a Computer Science Engineering student passionate about software engineering, web application development, database systems, data analytics, and Linux-based infrastructure.
+I am a Computer Science Engineering student passionate about software engineering, web application development, database systems, data analytics, AI, and IoT.
 
 My goal is to build scalable applications, design efficient systems, and continuously improve my skills across software development, cloud technologies, and data-driven solutions.
 
@@ -39,7 +25,7 @@ My goal is to build scalable applications, design efficient systems, and continu
 - 🗄️ Database Administration
 - 🐧 Linux System Administration
 - 🐳 Docker & Containerization
-- 💻 Backend Development
+- 💻 Backend & Frontend Development
 - 🤖 Machine Learning Fundamentals
 - ☁️ Infrastructure & DevOps
 
@@ -56,6 +42,7 @@ My goal is to build scalable applications, design efficient systems, and continu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" />
 </p>
 
 ### Web Development
@@ -105,7 +92,7 @@ My goal is to build scalable applications, design efficient systems, and continu
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/david-cruz-2487b8292/">
   <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
