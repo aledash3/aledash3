@@ -1,7 +1,7 @@
 <h1 align="center">David Cruz</h1>
 
 <p align="center">
-  Computer Science Engineering Student<br>
+  Computer Science Engineering Student & IEEE Member<br>
   Software Development • Data Analytics • Database Systems • Linux Infrastructure
 </p>
 
