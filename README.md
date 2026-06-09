@@ -13,6 +13,16 @@
 
 ## About Me
 
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aledash3&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
 I am a Computer Science Engineering student passionate about software engineering, web application development, database systems, data analytics, AI, and IoT.
 
 My goal is to build scalable applications, design efficient systems, and continuously improve my skills across software development, cloud technologies, and data-driven solutions.
@@ -73,16 +83,6 @@ My goal is to build scalable applications, design efficient systems, and continu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" />
 </p>
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aledash3&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
 
 ## Connect With Me
 
