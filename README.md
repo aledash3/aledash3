@@ -1,56 +1,124 @@
-<h2 align="left">Sup fellas. I'm David Cruz and I'm passionate about technology</h2>
+````md
+<h2 align="left">💀 David Cruz</h2>
 
 <p align="left">
-  Computer Science Engineering Student | Full-Stack | IoT & Data
+  Computer Science Engineering Student | Data Analytics | Database Systems | Linux Infrastructure
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aledash3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=aledash3&show_icons=true&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="170" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aledash3&layout=compact&theme=github_dark&hide_border=true" height="170" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="138" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aledash3&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
 
 ###
+
+<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+## About Me
+
+Computer Science Engineering student passionate about software engineering, data analytics, database systems, and Linux infrastructure.
+
+Currently focused on:
+
+- 📊 Data Analytics & Statistical Modeling
+- 🗄️ SQL Server & Oracle Database
+- 🐧 Linux System Administration
+- 🐳 Docker & Containerization
+- 💻 Backend Development
+- 📈 Machine Learning Fundamentals
+
+###
+
+## Tech Stack
 
 <div align="left">
-  <!-- MERN Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="sqlserver" />
   <img width="12" />
-  
-  <!-- Java & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker" />
   <img width="12" />
-  
-  <!-- C++ & Hardware/IoT -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  
-  <!-- Data Analysis & Security -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" />
+
 </div>
 
 ###
+
+## Current Focus
+
+```text
+Database Systems
+Linux Administration
+Data Analytics
+Statistical Modeling
+Software Engineering
+Container Technologies
+````
+
+###
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aledash3&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+###
+
+## Connect With Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=IEEE%20Computer%20Society&logo=ieee&label=&color=00629B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ieee logo"  />
+
+<a href="https://github.com/aledash3">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+<a href="https://www.ieee.org/">
+  <img src="https://img.shields.io/badge/IEEE-FFFFFF?style=for-the-badge&logo=ieee&logoColor=black" />
+</a>
+
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aledash3&color=grey&style=flat-square" />
+</div>
+
+###
+
+<div align="center">
+
+> Building systems, analyzing data, and continuously learning.
+
+</div>
+```
