@@ -1,4 +1,3 @@
-````md
 <h2 align="left">💀 David Cruz</h2>
 
 <p align="left">
@@ -71,14 +70,12 @@ Currently focused on:
 
 ## Current Focus
 
-```text
-Database Systems
-Linux Administration
-Data Analytics
-Statistical Modeling
-Software Engineering
+Database Systems  
+Linux Administration  
+Data Analytics  
+Statistical Modeling  
+Software Engineering  
 Container Technologies
-````
 
 ###
 
@@ -98,7 +95,7 @@ Container Technologies
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/david-cruz-2487b8292/">
   <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
@@ -121,4 +118,3 @@ Container Technologies
 > Building systems, analyzing data, and continuously learning.
 
 </div>
-```
