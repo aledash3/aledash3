@@ -84,14 +84,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="David's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aledash3&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="David's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=aledash3&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aledash3&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=aledash3&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 <p align="center">
