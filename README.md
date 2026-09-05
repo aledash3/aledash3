@@ -12,9 +12,6 @@
   <a href="mailto:davidcruzcv2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/aledash3">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.computer.org/">
     <img src="https://img.shields.io/badge/IEEE_Computer_Society-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Computer Society" />
   </a>
