@@ -17,8 +17,8 @@
 </div>
 
 <div align="center" style="margin: 16px 0;">
-  <img src="https://stats-backend-frontend.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&hide_rank=true" height="165" alt="Estadísticas de David en GitHub" />
-  <img src="https://stats-backend-frontend.vercel.app/api/top-langs/?username=aledash3&layout=compact&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Lenguajes más usados" />
+  <img src="https://stats-backend-frontend.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&title_color=00d992&icon_color=00d992&text_color=bdbdbd&bg_color=00000000" height="165" alt="Estadísticas de David en GitHub" />
+  <img src="https://stats-backend-frontend.vercel.app/api/top-langs/?username=aledash3&layout=compact&count_private=true&hide_border=true&title_color=00d992&text_color=bdbdbd&bg_color=00000000" height="165" alt="Lenguajes más usados" />
 </div>
 
 <div align="center" style="margin-bottom: 20px;">
