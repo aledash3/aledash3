@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm David Cruz 👋</h1>
-  <p><strong>Full-Stack Developer | Python · TypeScript · React · FastAPI · Docker</strong></p>
+  <p><strong>Computer Science Engineering | Full-Stack Developer</strong></p>
+  <p>Python · TypeScript · React · FastAPI · Docker</p>
   <p>Quito, Ecuador 🇪🇨</p>
 
   <p>
@@ -13,6 +14,15 @@
     <a href="README.md"><strong>English</strong></a> · 
     <a href="README.es.md">Español</a>
   </p>
+</div>
+
+<div align="center" style="margin: 16px 0;">
+  <img src="https://stats-backend-frontend.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&hide_rank=true" height="165" alt="David's GitHub Stats" />
+  <img src="https://stats-backend-frontend.vercel.app/api/top-langs/?username=aledash3&layout=compact&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://streak-stats.demolab.com/?user=aledash3&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -54,19 +64,6 @@
 | **[judith-hairstudio](https://github.com/aledash3/judith-hairstudio)** | Full-stack MERN business platform with MVC architecture, automated Sharp WebP image processing pipeline, revenue and client analytics dashboard, and automated backend test suites. | `React` `Node.js` `Express` `MongoDB` `Sharp WebP` `Tailwind` |
 | **[Bachito](https://github.com/aledash3/Bachito)** | Real-time road pothole detection and mapping system. Features custom accelerometer sensor hardware, low-latency C++ firmware on ESP32, and real-time cloud telemetry streaming to a Leaflet dashboard. | `ESP32` `C++` `Node.js` `Express` `Leaflet` `AWS EC2` |
 | **[autoexpert-ai](https://github.com/aledash3/autoexpert-ai)** | Full-stack AI automotive assistant featuring a conversational agent, structured RAG pipeline over PostgreSQL (+47k records), and interactive analytics dashboard in React. | `Python` `RAG` `PostgreSQL` `React` `LLMs` |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://stats-backend-frontend.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="David's GitHub Stats" />
-  <img src="https://stats-backend-frontend.vercel.app/api/top-langs/?username=aledash3&layout=compact&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=aledash3&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 

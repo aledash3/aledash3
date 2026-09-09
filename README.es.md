@@ -1,6 +1,7 @@
 <div align="center">
   <h1>¡Hola! Soy David Cruz 👋</h1>
-  <p><strong>Desarrollador Full-Stack | Python · TypeScript · React · FastAPI · Docker</strong></p>
+  <p><strong>Ingeniería en Ciencias de la Computación | Desarrollador Full-Stack</strong></p>
+  <p>Python · TypeScript · React · FastAPI · Docker</p>
   <p>Quito, Ecuador 🇪🇨</p>
 
   <p>
@@ -13,6 +14,15 @@
     <a href="README.md">English</a> · 
     <a href="README.es.md"><strong>Español</strong></a>
   </p>
+</div>
+
+<div align="center" style="margin: 16px 0;">
+  <img src="https://stats-backend-frontend.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&hide_rank=true" height="165" alt="Estadísticas de David en GitHub" />
+  <img src="https://stats-backend-frontend.vercel.app/api/top-langs/?username=aledash3&layout=compact&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Lenguajes más usados" />
+</div>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://streak-stats.demolab.com/?user=aledash3&theme=github-dark-blue&hide_border=true" alt="Racha en GitHub" />
 </div>
 
 ---
@@ -54,19 +64,6 @@
 | **[judith-hairstudio](https://github.com/aledash3/judith-hairstudio)** | Plataforma Full-Stack MERN para administración de citas, clientes e ingresos bajo arquitectura MVC. Procesamiento automático de imágenes a WebP con Sharp, suite de pruebas y panel analítico. | `React` `Node.js` `Express` `MongoDB` `Sharp WebP` `Tailwind` |
 | **[Bachito](https://github.com/aledash3/Bachito)** | Sistema colaborativo IoT para detección y mapeo de baches. Circuito electrónico sensorizado con acelerómetro, firmware C++ en ESP32 y transmisión de telemetría a la nube con dashboard en Leaflet. | `ESP32` `C++` `Node.js` `Express` `Leaflet` `AWS EC2` |
 | **[autoexpert-ai](https://github.com/aledash3/autoexpert-ai)** | Asistente automotriz full-stack con agente de IA conversacional, RAG estructurado sobre PostgreSQL (+47k registros) y panel de analítica interactivo en React. | `Python` `RAG` `PostgreSQL` `React` `LLMs` |
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://stats-backend-frontend.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Estadísticas de David en GitHub" />
-  <img src="https://stats-backend-frontend.vercel.app/api/top-langs/?username=aledash3&layout=compact&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Lenguajes más usados" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=aledash3&theme=github-dark-blue&hide_border=true" alt="Racha en GitHub" />
-</div>
 
 ---
 
