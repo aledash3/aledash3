@@ -1,0 +1,77 @@
+<div align="center">
+  <h1>¡Hola! Soy David Cruz 👋</h1>
+  <p><strong>Desarrollador Full-Stack | Python · TypeScript · React · FastAPI · Docker</strong></p>
+  <p>Quito, Ecuador 🇪🇨</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/davidcruzp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:davidcruzcv2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  </p>
+
+  <p>
+    <strong>🌐 Idioma:</strong> 
+    <a href="README.md">English</a> · 
+    <a href="README.es.md"><strong>Español</strong></a>
+  </p>
+</div>
+
+---
+
+## 💻 Tecnologías y Stack
+
+#### **Lenguajes de Programación**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,r" alt="Lenguajes de Programación" />
+</a>
+
+#### **Desarrollo Frontend**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" alt="Desarrollo Frontend" />
+</a>
+
+#### **Backend y Bases de Datos**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis" alt="Backend y Bases de Datos" />
+</a>
+
+#### **DevOps, Cloud e Infraestructura**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,githubactions,postman" alt="DevOps, Cloud e Infraestructura" />
+</a>
+
+#### **Hardware, Electrónica e IoT**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware, Electrónica e IoT" />
+</a>
+
+---
+
+## 🚀 Repositorios Destacados
+
+| Repositorio | Descripción y Arquitectura | Stack Tecnológico |
+| :--- | :--- | :--- |
+| **[library-microservices-fastapi](https://github.com/aledash3/library-microservices-fastapi)** | Arquitectura de 3 microservicios desacoplados con FastAPI y PostgreSQL, redes virtuales privadas en Docker Compose con volúmenes persistentes, API Gateway Nginx y pruebas automáticas en CI. | `FastAPI` `PostgreSQL` `Docker` `Nginx` `Pytest` `CI` |
+| **[judith-hairstudio](https://github.com/aledash3/judith-hairstudio)** | Plataforma Full-Stack MERN para administración de citas, clientes e ingresos bajo arquitectura MVC. Procesamiento automático de imágenes a WebP con Sharp, suite de pruebas y panel analítico. | `React` `Node.js` `Express` `MongoDB` `Sharp WebP` `Tailwind` |
+| **[Bachito](https://github.com/aledash3/Bachito)** | Sistema colaborativo IoT para detección y mapeo de baches. Circuito electrónico sensorizado con acelerómetro, firmware C++ en ESP32 y transmisión de telemetría a la nube con dashboard en Leaflet. | `ESP32` `C++` `Node.js` `Express` `Leaflet` `AWS EC2` |
+| **[autoexpert-ai](https://github.com/aledash3/autoexpert-ai)** | Asistente automotriz full-stack con agente de IA conversacional, RAG estructurado sobre PostgreSQL (+47k registros) y panel de analítica interactivo en React. | `Python` `RAG` `PostgreSQL` `React` `LLMs` |
+| **[todo-cli-python](https://github.com/aledash3/todo-cli-python)** | Aplicación de gestión de tareas por terminal en Python 3.13 con principios SOLID, persistencia JSON, formateo visual con Rich y cobertura completa de pruebas con Pytest. | `Python 3.13` `Typer` `Rich` `Pytest` `SOLID` |
+| **[modelo-estres-devs](https://github.com/aledash3/modelo-estres-devs)** | Modelo econométrico y estadístico en R utilizando regresión lineal múltiple (OLS) para el análisis predictivo de factores de estrés laboral en equipos de desarrollo. | `R` `Regresión OLS` `LaTeX` `Analítica de Datos` |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://stats-backend-frontend.vercel.app/api?username=aledash3&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Estadísticas de David en GitHub" />
+  <img src="https://stats-backend-frontend.vercel.app/api/top-langs/?username=aledash3&layout=compact&count_private=true&theme=github_dark&hide_border=true" height="165" alt="Lenguajes más usados" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=aledash3&theme=github-dark-blue&hide_border=true" alt="Racha en GitHub" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Construyamos software de impacto · <a href="mailto:davidcruzcv2005@gmail.com">Contáctame</a></sub>
+</div>
