@@ -21,27 +21,27 @@
 
 #### **Programming Languages**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,r" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,r,bash,html,css,markdown,latex" alt="Programming Languages" />
 </a>
 
 #### **Frontend Development**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite" alt="Frontend Development" />
 </a>
 
 #### **Backend & Databases**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nginx,postgres,mysql,mongodb,redis" alt="Backend & Databases" />
 </a>
 
 #### **DevOps, Cloud & Infrastructure**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,githubactions,postman" alt="DevOps, Cloud & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,postman" alt="DevOps, Cloud & Infrastructure" />
 </a>
 
-#### **Hardware, Electronics & IoT**
+#### **Hardware, Electronics & Tools**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware, Electronics & IoT" />
+  <img src="https://skillicons.dev/icons?i=arduino,vscode,eclipse,qt,discord,npm,pnpm" alt="Hardware, Electronics & Tools" />
 </a>
 
 ---
@@ -54,8 +54,6 @@
 | **[judith-hairstudio](https://github.com/aledash3/judith-hairstudio)** | Full-stack MERN business platform with MVC architecture, automated Sharp WebP image processing pipeline, revenue and client analytics dashboard, and automated backend test suites. | `React` `Node.js` `Express` `MongoDB` `Sharp WebP` `Tailwind` |
 | **[Bachito](https://github.com/aledash3/Bachito)** | Real-time road pothole detection and mapping system. Features custom accelerometer sensor hardware, low-latency C++ firmware on ESP32, and real-time cloud telemetry streaming to a Leaflet dashboard. | `ESP32` `C++` `Node.js` `Express` `Leaflet` `AWS EC2` |
 | **[autoexpert-ai](https://github.com/aledash3/autoexpert-ai)** | Full-stack AI automotive assistant featuring a conversational agent, structured RAG pipeline over PostgreSQL (+47k records), and interactive analytics dashboard in React. | `Python` `RAG` `PostgreSQL` `React` `LLMs` |
-| **[todo-cli-python](https://github.com/aledash3/todo-cli-python)** | Modular terminal task management application built with Python 3.13, adhering to strict SOLID design principles, JSON persistence, Rich terminal formatting, and complete Pytest suite. | `Python 3.13` `Typer` `Rich` `Pytest` `SOLID` |
-| **[modelo-estres-devs](https://github.com/aledash3/modelo-estres-devs)** | Econometric and statistical modeling in R using multivariate OLS linear regression to analyze and forecast occupational stress factors in developer teams. | `R` `OLS Regression` `LaTeX` `Data Analytics` |
 
 ---
 

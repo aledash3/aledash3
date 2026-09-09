@@ -21,27 +21,27 @@
 
 #### **Lenguajes de Programación**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,r" alt="Lenguajes de Programación" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,r,bash,html,css,markdown,latex" alt="Lenguajes de Programación" />
 </a>
 
 #### **Desarrollo Frontend**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" alt="Desarrollo Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite" alt="Desarrollo Frontend" />
 </a>
 
 #### **Backend y Bases de Datos**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis" alt="Backend y Bases de Datos" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nginx,postgres,mysql,mongodb,redis" alt="Backend y Bases de Datos" />
 </a>
 
 #### **DevOps, Cloud e Infraestructura**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,githubactions,postman" alt="DevOps, Cloud e Infraestructura" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions,postman" alt="DevOps, Cloud e Infraestructura" />
 </a>
 
 #### **Hardware, Electrónica e IoT**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware, Electrónica e IoT" />
+  <img src="https://skillicons.dev/icons?i=arduino,vscode,eclipse,qt,discord,npm,pnpm" alt="Hardware, Electrónica e IoT" />
 </a>
 
 ---
@@ -54,8 +54,6 @@
 | **[judith-hairstudio](https://github.com/aledash3/judith-hairstudio)** | Plataforma Full-Stack MERN para administración de citas, clientes e ingresos bajo arquitectura MVC. Procesamiento automático de imágenes a WebP con Sharp, suite de pruebas y panel analítico. | `React` `Node.js` `Express` `MongoDB` `Sharp WebP` `Tailwind` |
 | **[Bachito](https://github.com/aledash3/Bachito)** | Sistema colaborativo IoT para detección y mapeo de baches. Circuito electrónico sensorizado con acelerómetro, firmware C++ en ESP32 y transmisión de telemetría a la nube con dashboard en Leaflet. | `ESP32` `C++` `Node.js` `Express` `Leaflet` `AWS EC2` |
 | **[autoexpert-ai](https://github.com/aledash3/autoexpert-ai)** | Asistente automotriz full-stack con agente de IA conversacional, RAG estructurado sobre PostgreSQL (+47k registros) y panel de analítica interactivo en React. | `Python` `RAG` `PostgreSQL` `React` `LLMs` |
-| **[todo-cli-python](https://github.com/aledash3/todo-cli-python)** | Aplicación de gestión de tareas por terminal en Python 3.13 con principios SOLID, persistencia JSON, formateo visual con Rich y cobertura completa de pruebas con Pytest. | `Python 3.13` `Typer` `Rich` `Pytest` `SOLID` |
-| **[modelo-estres-devs](https://github.com/aledash3/modelo-estres-devs)** | Modelo econométrico y estadístico en R utilizando regresión lineal múltiple (OLS) para el análisis predictivo de factores de estrés laboral en equipos de desarrollo. | `R` `Regresión OLS` `LaTeX` `Analítica de Datos` |
 
 ---
 
